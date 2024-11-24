@@ -1,2 +1,2 @@
-![Dashboard Screenshot](moderndashboard.png)
+![Dashboard Screenshot](moderndashborad.png)
 ![Dashboard Screenshot](standarsdashboard.png)
